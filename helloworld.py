@@ -1,0 +1,7 @@
+print('Hello, World!')
+print(6+4)
+print(7*6)
+print()
+print("THE END ,", "OR IS IT ?", "KEEP WATCHING TO LEARN MORE ABOUT PYTHON", "'3'")
+print()
+print("My", "Hovercraft", "is", "full", "of", "eels")
